@@ -8,11 +8,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -32,7 +30,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 
 ### Built with
 
@@ -58,9 +55,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Fagorala Adedapo](https://dapo-f.github.io/Recipe-page/)
+- Frontend Mentor - [@Dapo-f](https://www.frontendmentor.io/profile/Dapo-f)
+- Twitter - [@vaLorant56](https://www.twitter.com/vaLorant56)
 
 
 ## Acknowledgments
